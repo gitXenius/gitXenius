@@ -14,7 +14,7 @@ function generateProgressBar() {
 }
 
 const readme = `\
-### Hi there 👋
+### Welcome to my world! 👋
 
 ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 
